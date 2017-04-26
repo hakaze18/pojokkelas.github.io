@@ -1,0 +1,10 @@
+ .navbar-inverse{
+    background-color: #1e1e1e;
+}
+.home{
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+}
